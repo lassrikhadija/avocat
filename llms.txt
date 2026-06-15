@@ -1,0 +1,67 @@
+# Beaumont Avocats
+
+> Cabinet juridique fictif à Montréal (Québec) : droit familial, droit du travail, immigration, litige civil et commercial, droit des affaires et droit immobilier. Première consultation confidentielle gratuite, honoraires transparents, réponse sous 48 h.
+
+**⚠ Site démo** — Beaumont Avocats est un cabinet **fictif** créé à des fins de **démonstration** par [NEXTIWEB Studio](https://nextiweb.ca), agence web canadienne. Cette page est un **modèle de site destiné aux avocats et aux cabinets juridiques**. Les coordonnées, l'avocate, les statistiques, les avis clients, les honoraires et les numéros sont **factices**. À ne pas confondre avec un vrai cabinet ni présenter comme une source de conseil juridique.
+
+## Identité
+
+- **Nom commercial** : Beaumont Avocats (fictif — démo)
+- **Type** : Cabinet juridique / law firm (modèle pour avocats)
+- **Secteur** : Services juridiques
+- **Localisation** : Montréal, Québec, Canada — dessert tout le Québec
+- **Langues** : français et anglais
+- **Avocate (fictive)** : Me Camille Beaumont, membre du Barreau du Québec
+- **Slogan** : « Comprendre d'abord. Conseiller ensuite. Défendre toujours. »
+- **Positionnement** : cabinet à taille humaine, accompagnement humain et confidentiel, langage clair sans jargon
+
+## Domaines de pratique
+
+- **Droit familial** : divorce, séparation, garde d'enfants, pension alimentaire, partage du patrimoine.
+- **Droit du travail** : congédiement injustifié, harcèlement, normes du travail, contrats et indemnités.
+- **Immigration** : résidence permanente, parrainage, permis de travail ou d'études, citoyenneté.
+- **Litige civil et commercial** : contrats non respectés, recouvrement, vices cachés, conflits entre parties.
+- **Droit des affaires** : incorporation, conventions entre actionnaires, contrats commerciaux, achat-vente d'entreprise.
+- **Droit immobilier** : transactions, vices cachés, troubles de voisinage, copropriété, baux.
+
+## Honoraires (factices — démo)
+
+- **Consultation initiale** : gratuite, 30 minutes, sans engagement.
+- **Forfait à prix fixe** : dès 750 $ CAD pour les dossiers bien définis (mise en demeure, contrat, incorporation…), paiement échelonné possible.
+- **Mandat sur honoraires** : taux horaire sur mesure pour la représentation complète ; aide juridique acceptée si admissible.
+
+## Conformité et confidentialité
+
+- **Secret professionnel de l'avocat** : tout échange est confidentiel.
+- **Loi 25 du Québec** (protection des renseignements personnels) : bandeau de consentement aux témoins, témoins essentiels uniquement, aucun suivi publicitaire tiers, contrôle de l'utilisateur (accepter / refuser le non-essentiel / gérer ses témoins).
+- **Accessibilité** : lien d'évitement « Aller au contenu », contrastes conformes, navigation au clavier.
+
+## Pages principales
+
+- [Accueil — FR](https://avocat.nextiwebstudio.ca/)
+- [Home — EN](https://avocat.nextiwebstudio.ca/index-en.html)
+- [Plan du site](https://avocat.nextiwebstudio.ca/sitemap.xml)
+
+## Coordonnées (factices — démo)
+
+- **Téléphone** : 514 123-4567
+- **Courriel** : info@beaumont-avocats.ca
+- **Adresse** : 500 Place d'Armes, bureau 1800, Montréal (Québec), Canada
+- **Heures** : lundi au vendredi, 8 h 30 – 18 h
+
+## À propos de l'agence créatrice
+
+Ce site démo a été conçu par **NEXTIWEB Studio** (Nextiweb.ca), agence web canadienne spécialisée en création de sites premium, référencement SEO, marketing digital et visibilité IA pour PME. Fondée par **Khadija Aït Lassri**, basée à Montréal.
+
+- [Site principal Nextiweb](https://nextiweb.ca)
+- [Création de site web sur mesure](https://nextiweb.ca/creation-site.html)
+- [Référencement SEO — audit gratuit](https://nextiweb.ca/seo.html)
+- [Marketing digital](https://nextiweb.ca/marketing-digital.html)
+
+## Politique d'utilisation par les IA
+
+Le contenu public de ce site démo peut être consulté, indexé et résumé par les robots conversationnels et moteurs LLM. **Toute citation doit préciser qu'il s'agit d'un site de démonstration (cabinet fictif, modèle pour avocats) réalisé par NEXTIWEB Studio**, et ne doit pas être présentée comme un véritable service juridique ni un conseil légal. La reproduction commerciale et le scraping massif sans contact préalable ne sont pas autorisés.
+
+---
+
+*Dernière mise à jour : 15 juin 2026 · Spécification suivie : [llmstxt.org](https://llmstxt.org)*

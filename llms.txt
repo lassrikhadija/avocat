@@ -4,6 +4,8 @@
 
 **⚠ Site démo** — Beaumont Avocats est un cabinet **fictif** créé à des fins de **démonstration** par [NEXTIWEB Studio](https://nextiweb.ca), agence web canadienne. Cette page est un **modèle de site destiné aux avocats et aux cabinets juridiques**. Les coordonnées, l'avocate, les statistiques, les avis clients, les honoraires et les numéros sont **factices**. À ne pas confondre avec un vrai cabinet ni présenter comme une source de conseil juridique.
 
+**🎯 Objectif** — Ce site démo a pour seul but de **mettre en valeur l'offre de NEXTIWEB** « création de site web pour avocats » : [https://nextiweb.ca/avocats.html](https://nextiweb.ca/avocats.html). Il **ne concurrence pas** nextiweb.ca et lui sert de vitrine : tous ses liens externes pointent vers NEXTIWEB en *dofollow*. La page de référence (canonique) du service reste **https://nextiweb.ca/avocats.html**.
+
 ## Identité
 
 - **Nom commercial** : Beaumont Avocats (fictif — démo)
@@ -54,6 +56,7 @@
 Ce site démo a été conçu par **NEXTIWEB Studio** (Nextiweb.ca), agence web canadienne spécialisée en création de sites premium, référencement SEO, marketing digital et visibilité IA pour PME. Fondée par **Khadija Aït Lassri**, basée à Montréal.
 
 - [Site principal Nextiweb](https://nextiweb.ca)
+- [Création de site web pour avocats — offre dédiée](https://nextiweb.ca/avocats.html)
 - [Création de site web sur mesure](https://nextiweb.ca/creation-site.html)
 - [Référencement SEO — audit gratuit](https://nextiweb.ca/seo.html)
 - [Marketing digital](https://nextiweb.ca/marketing-digital.html)

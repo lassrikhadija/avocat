@@ -21,18 +21,21 @@
 <meta property="og:locale:alternate" content="fr_CA">
 <meta property="og:url" content="https://avocat.nextiwebstudio.ca/index-en.html">
 <meta property="og:site_name" content="Beaumont Law (NEXTIWEB Studio demo)">
-<meta property="og:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg">
+<meta property="og:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Beaumont Law — law firm in Montreal. NEXTIWEB Studio demo site (template for lawyers).">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Beaumont Law — Law firm · Montreal">
 <meta name="twitter:description" content="A lawyer by your side, in full confidence. Free first consultation. (NEXTIWEB Studio demo for lawyers)">
-<meta name="twitter:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg">
+<meta name="twitter:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg">
 <meta name="twitter:image:alt" content="Beaumont Law — law firm in Montreal. NEXTIWEB Studio demo site (template for lawyers).">
 
-<!-- Favicon -->
+<!-- Favicon & icons -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#5E4126">
+<meta name="color-scheme" content="light">
 
 <!-- JSON-LD : 2026 best practice for local legal SEO -->
 <script type="application/ld+json">
@@ -41,7 +44,7 @@
   "@type":"LegalService",
   "name":"Beaumont Law",
   "url":"https://avocat.nextiwebstudio.ca/",
-  "image":"https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg",
+  "image":"https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg",
   "logo":"https://avocat.nextiwebstudio.ca/favicon.svg",
   "description":"Law firm in Montreal — family law, employment law, immigration, business law and civil litigation. Free, confidential first consultation.",
   "areaServed":"Montreal, QC",
@@ -51,6 +54,22 @@
   "address":{"@type":"PostalAddress","streetAddress":"500 Place d'Armes, Suite 1800","addressLocality":"Montreal","addressRegion":"QC","addressCountry":"CA"},
   "openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:30","closes":"18:00"}],
   "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"210"}
+}
+</script>
+
+<!-- JSON-LD : FAQ (rich results) -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"How much does a first consultation cost?","acceptedAnswer":{"@type":"Answer","text":"The first 30-minute consultation is completely free and with no obligation. It's there to understand your situation and give you an honest cost estimate before any decision."}},
+    {"@type":"Question","name":"Will my information stay confidential?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. Everything you share with us is covered by solicitor–client privilege. Your personal data is also protected under Quebec's Law 25 on the protection of personal information — we never share it without your consent."}},
+    {"@type":"Question","name":"I'm not even sure I have a case — can I still call?","acceptedAnswer":{"@type":"Answer","text":"Yes, and that's exactly what the first call is for. We'll tell you frankly whether legal action is warranted — and if not, we'll point you to the right resource."}},
+    {"@type":"Question","name":"How quickly will I get a reply?","acceptedAnswer":{"@type":"Answer","text":"We reply to every new request within 48 business hours. For urgent situations (an approaching legal deadline, an imminent hearing), let us know: those matters are handled as a priority."}},
+    {"@type":"Question","name":"Can we meet remotely?","acceptedAnswer":{"@type":"Answer","text":"Yes. Meetings happen however suits you: at the downtown Montreal office, by phone or by secure video call. Documents can be signed electronically."}},
+    {"@type":"Question","name":"Do you accept legal aid or payment plans?","acceptedAnswer":{"@type":"Answer","text":"We accept legal aid mandates when you're eligible, and offer payment plans for several types of matters. The goal is that money is never a barrier to your rights."}}
+  ]
 }
 </script>
 
@@ -950,9 +969,9 @@ section{ position:relative; }
     <div class="foot__bottom">
       <small>© 2026 Beaumont Law — demonstration site · BN 0000000000.</small>
       <nav class="foot__legal" aria-label="Legal links">
-        <a href="#">Privacy policy</a><span class="sep">·</span>
-        <a href="#">Cookies</a><span class="sep">·</span>
-        <a href="#">Legal notice</a><span class="sep">·</span>
+        <a href="/privacy-policy.html">Privacy policy</a><span class="sep">·</span>
+        <a href="/privacy-policy.html#temoins">Cookies</a><span class="sep">·</span>
+        <a href="/privacy-policy.html#mentions">Legal notice</a><span class="sep">·</span>
         <button type="button" id="ckManage">Manage cookies</button>
       </nav>
       <span class="foot__credit">Demo by <a href="https://nextiweb.ca" rel="noopener">NEXTIWEB</a> · <a href="https://nextiweb.ca/avocats.html" rel="noopener">Web design for lawyers</a></span>
@@ -963,7 +982,7 @@ section{ position:relative; }
 <!-- ============ LOI 25 : consentement ============ -->
 <div class="cookie" id="cookie" role="dialog" aria-label="Privacy preferences" aria-live="polite">
   <b>Your privacy matters</b>
-  <p>This firm handles sensitive information. This site uses only cookies essential to its operation — no advertising tracking. You stay in control, in line with <a href="#">Quebec's Law 25</a>.</p>
+  <p>This firm handles sensitive information. This site uses only cookies essential to its operation — no advertising tracking. You stay in control, in line with <a href="/privacy-policy.html">Quebec's Law 25</a>.</p>
   <div class="cookie__btns">
     <button type="button" class="btn btn--ghost" id="ckRefuse">Reject non-essential</button>
     <button type="button" class="btn" id="ckAccept">Accept all</button>

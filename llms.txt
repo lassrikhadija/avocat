@@ -42,6 +42,8 @@
 
 - [Accueil — FR](https://avocat.nextiwebstudio.ca/)
 - [Home — EN](https://avocat.nextiwebstudio.ca/index-en.html)
+- [Politique de confidentialité — Loi 25](https://avocat.nextiwebstudio.ca/politique-confidentialite.html)
+- [Privacy policy — Law 25](https://avocat.nextiwebstudio.ca/privacy-policy.html)
 - [Plan du site](https://avocat.nextiwebstudio.ca/sitemap.xml)
 
 ## Coordonnées (factices — démo)

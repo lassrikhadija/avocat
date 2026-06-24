@@ -21,18 +21,21 @@
 <meta property="og:locale:alternate" content="en_CA">
 <meta property="og:url" content="https://avocat.nextiwebstudio.ca/">
 <meta property="og:site_name" content="Beaumont Avocats (démo NEXTIWEB Studio)">
-<meta property="og:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg">
+<meta property="og:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Beaumont Avocats — cabinet juridique à Montréal. Site démo NEXTIWEB Studio (modèle pour avocats).">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Beaumont Avocats — Cabinet juridique · Montréal">
 <meta name="twitter:description" content="Un avocat à vos côtés, en toute confidentialité. Première consultation gratuite. (Démo NEXTIWEB Studio pour avocats)">
-<meta name="twitter:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg">
+<meta name="twitter:image" content="https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg">
 <meta name="twitter:image:alt" content="Beaumont Avocats — cabinet juridique à Montréal. Site démo NEXTIWEB Studio (modèle pour avocats).">
 
-<!-- Favicon -->
+<!-- Favicon & icônes -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#5E4126">
+<meta name="color-scheme" content="light">
 
 <!-- JSON-LD : bonne pratique 2026 pour le SEO local juridique -->
 <script type="application/ld+json">
@@ -41,7 +44,7 @@
   "@type":"LegalService",
   "name":"Beaumont Avocats",
   "url":"https://avocat.nextiwebstudio.ca/",
-  "image":"https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.svg",
+  "image":"https://avocat.nextiwebstudio.ca/images/demo-nextiweb-agence-web-avocats-montreal.jpg",
   "logo":"https://avocat.nextiwebstudio.ca/favicon.svg",
   "description":"Cabinet juridique à Montréal — droit familial, droit du travail, immigration, droit des affaires et litige civil. Première consultation confidentielle gratuite.",
   "areaServed":"Montréal, QC",
@@ -51,6 +54,22 @@
   "address":{"@type":"PostalAddress","streetAddress":"500, place d'Armes, bureau 1800","addressLocality":"Montréal","addressRegion":"QC","addressCountry":"CA"},
   "openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:30","closes":"18:00"}],
   "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"210"}
+}
+</script>
+
+<!-- JSON-LD : FAQ (rich results) -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"Combien coûte une première consultation ?","acceptedAnswer":{"@type":"Answer","text":"La première consultation de 30 minutes est entièrement gratuite et sans engagement. Elle sert à comprendre votre situation et à vous donner une estimation honnête des coûts avant toute décision."}},
+    {"@type":"Question","name":"Mes informations restent-elles confidentielles ?","acceptedAnswer":{"@type":"Answer","text":"Absolument. Tout ce que vous nous confiez est couvert par le secret professionnel de l'avocat. Vos données personnelles sont également protégées conformément à la Loi 25 sur la protection des renseignements personnels au Québec — nous ne les partageons jamais sans votre consentement."}},
+    {"@type":"Question","name":"Je ne sais même pas si j'ai un dossier — puis-je quand même appeler ?","acceptedAnswer":{"@type":"Answer","text":"Oui, et c'est exactement à ça que sert le premier appel. On vous dira franchement si une démarche juridique est justifiée — et sinon, on vous orientera vers la bonne ressource."}},
+    {"@type":"Question","name":"En combien de temps aurai-je une réponse ?","acceptedAnswer":{"@type":"Answer","text":"Nous répondons à toute nouvelle demande sous 48 heures ouvrables. Pour les situations urgentes (délai légal qui approche, audience imminente), précisez-le : ces dossiers sont traités en priorité."}},
+    {"@type":"Question","name":"Peut-on se rencontrer à distance ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les rencontres se font à votre convenance : au bureau au centre-ville de Montréal, par téléphone ou en visioconférence sécurisée. Les documents peuvent être signés électroniquement."}},
+    {"@type":"Question","name":"Acceptez-vous l'aide juridique ou le paiement échelonné ?","acceptedAnswer":{"@type":"Answer","text":"Nous acceptons les mandats d'aide juridique lorsque vous y êtes admissible, et proposons des paiements échelonnés pour plusieurs types de dossiers. L'objectif est que l'aspect financier ne soit jamais un obstacle à vos droits."}}
+  ]
 }
 </script>
 
@@ -950,9 +969,9 @@ section{ position:relative; }
     <div class="foot__bottom">
       <small>© 2026 Beaumont Avocats — site de démonstration · NEQ 0000000000.</small>
       <nav class="foot__legal" aria-label="Liens légaux">
-        <a href="#">Politique de confidentialité</a><span class="sep">·</span>
-        <a href="#">Témoins (cookies)</a><span class="sep">·</span>
-        <a href="#">Mentions légales</a><span class="sep">·</span>
+        <a href="/politique-confidentialite.html">Politique de confidentialité</a><span class="sep">·</span>
+        <a href="/politique-confidentialite.html#temoins">Témoins (cookies)</a><span class="sep">·</span>
+        <a href="/politique-confidentialite.html#mentions">Mentions légales</a><span class="sep">·</span>
         <button type="button" id="ckManage">Gérer mes témoins</button>
       </nav>
       <span class="foot__credit">Démo conçue par <a href="https://nextiweb.ca" rel="noopener">NEXTIWEB</a> · <a href="https://nextiweb.ca/avocats.html" rel="noopener">Création de site web pour avocats</a></span>
@@ -963,7 +982,7 @@ section{ position:relative; }
 <!-- ============ LOI 25 : consentement ============ -->
 <div class="cookie" id="cookie" role="dialog" aria-label="Préférences de confidentialité" aria-live="polite">
   <b>Votre vie privée compte</b>
-  <p>Ce cabinet manipule des renseignements sensibles. Ce site n'utilise que des témoins essentiels à son bon fonctionnement — aucun suivi publicitaire. Vous gardez le contrôle, conformément à la <a href="#">Loi 25</a>.</p>
+  <p>Ce cabinet manipule des renseignements sensibles. Ce site n'utilise que des témoins essentiels à son bon fonctionnement — aucun suivi publicitaire. Vous gardez le contrôle, conformément à la <a href="/politique-confidentialite.html">Loi 25</a>.</p>
   <div class="cookie__btns">
     <button type="button" class="btn btn--ghost" id="ckRefuse">Refuser le non-essentiel</button>
     <button type="button" class="btn" id="ckAccept">Tout accepter</button>
